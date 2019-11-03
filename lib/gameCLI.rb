@@ -28,5 +28,6 @@ def start
         puts "Would you like to play again? If not enter 'exit'."
 
     game_start until input == "exit"
+  end 
 
 end
